@@ -1,4 +1,4 @@
-# jontingvold.no
+# tingvoldventures.no
 
 Personal website and blog set up with Jekyll, a static website and blog generator.
 
