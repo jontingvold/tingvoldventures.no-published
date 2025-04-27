@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Tingvold Ventures</title>
+<icon>https://www.tingvoldventures.no/favicon.ico</icon>
+
+<link
+        href="https://www.tingvoldventures.no/atom.xml" rel="self" />
+<link
+        href="https://www.tingvoldventures.no/" />
+<id>https://www.tingvoldventures.no</id>
+
+<updated>2025-04-27T11:17:40+00:00</updated>
+
+<author>
+        <name>Tingvold Ventures AS</name>
+    </author>  </feed>

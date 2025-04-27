@@ -3,4 +3,5 @@ Disallow: /
 
 User-agent: *
 Disallow: /assets/
+Sitemap: https://www.tingvoldventures.no/sitemap.xml
 
